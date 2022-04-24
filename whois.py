@@ -1,4 +1,4 @@
-import socket,sys,codecs
+import socket,sys
 
 try:
 	s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
